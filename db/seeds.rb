@@ -105,7 +105,7 @@ shift_9 = Shift.create(
         day: 4,
         start_at: "9am",
         end_at: "1pm",
-        duration: 5,
+        duration: 4,
         role: "Chef",
         color: "orange",
         employee_id: person_3.id
